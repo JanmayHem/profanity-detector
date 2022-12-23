@@ -9,11 +9,18 @@ Lorem Ipsum
 ## Details 
 Lorem Ipsum
 
+## Why this project?
+Lorem Ipsum
+
 ## Contributing
-Pull requests are welcome, why else we on GitHub for eh. For major changes, please open an issue first
+• Pull requests are welcome, why else we on GitHub for eh. 
+
+• For major changes, please open an issue first
 to discuss what you would like to change. Please make sure to update tests as appropriate. 
 
-Open to discussions as well! 
+• Aiming to make this a proper Python Library on PyPI.
+
+• Open to discussions as well! 
 
 ## License
 
