@@ -24,7 +24,7 @@ to discuss what you would like to change. Please make sure to update tests as ap
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This repository comes under the [MIT](https://choosealicense.com/licenses/mit/) License. Kindly check all the details.
 
 -- <br>
 Made with :heart: by [@JanmayHem](https://github.com/JanmayHem) 
