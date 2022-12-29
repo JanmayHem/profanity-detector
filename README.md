@@ -1,7 +1,7 @@
 # Profanity Detector
-A python based ML model, which detects profane language and returns true or false with respect to a social media environment (yeah, have to consider things like free speech shm).  
+A python based Machine Learning model, which detects profane language and returns true or false with respect to a social media environment (yeah, have to consider things like free speech shm).  
 
-This is under development. [================>. . . .]
+<!-- This is under development. [================>. . . .] -->
 
 ## How to use
 1) Download all .py files or [clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
@@ -15,10 +15,10 @@ This is under development. [================>. . . .]
 5) The main file is where the function is, which takes in the Statement in String form and returns True or false based on the profanity score given by the model trained.
 
 ## Details 
-Lorem Ipsum
+Keras, which is an interface of TensorFlow library, has been used for the training of this model. It has 4 Epochs, each of which take about 40 mins max. This model was designed to suit the likes of a social media app, hence using profane words with \*,@,#, etc will be allowed as people do expect to express their views and not hurt public sentiment using such tricks. Note that the sample used in the \_profanity_.py file, and some Input Files contains the use of strong language. 
 
 ## Why this project?
-Lorem Ipsum
+Mainly to assist the app mentioned above. But also to explore and get into the world of Machine Learning! Do let me know if there are some inconsistencies. 
 
 ## Contributing
 • Pull requests are welcome, why else we on GitHub for eh. 
@@ -36,3 +36,4 @@ This repository comes under the [MIT License](https://choosealicense.com/license
 
 -- <br>
 Made with :heart: by [@JanmayHem](https://github.com/JanmayHem) 
+<br><br>[![Tech Stack Used](https://skillicons.dev/icons?i=py,tensorflow,git,github)](https://skillicons.dev)
