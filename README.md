@@ -4,7 +4,13 @@ A python based ML model, which detects profane language and returns true or fals
 This is under development. [================>. . . .]
 
 ## How to use
-Lorem Ipsum
+1) Download all .py files or [clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+2) Download all files in the Input Files and arrange them [accordingly](https://github.com/JanmayHem/profanity-detector/blob/main/Input%20Files/README.md).
+<br>&emsp;• Alternatively, you can access the same input files from [Kaggle](https://www.kaggle.com/code/psvenom/balls/data).
+3) Run the _profanity_.py file. 
+<br>&emsp;• This will read all the data, preprocess it, form a proper format, and feed the model. 
+<br>&emsp;• Then the model is saved.
+4) 
 
 ## Details 
 Lorem Ipsum
